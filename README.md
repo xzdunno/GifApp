@@ -12,7 +12,7 @@
  <li>Paging</li>
  <li>MVVM</li>
 </ul>
-
+<p><h3>Описание</h3></p>
 При запуске моего приложения перед пользователем появится экран "Trending", он содержит 25 гифок, информация о них сохраняется в RoomDataBase.
 
 ![Screenshot_20230304_151547_GifApp](https://user-images.githubusercontent.com/86302070/222900792-2fce445e-2691-41d3-9157-9e81d3297a97.jpg)
