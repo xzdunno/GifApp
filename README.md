@@ -8,6 +8,7 @@
  <li>LiveData</li>
  <li>ViewModel</li>
  <li>Fragment</li>
+<li>RecyclerView</li>
  <li>Coroutines</li>
  <li>Paging</li>
  <li>MVVM</li>
